@@ -1,4 +1,5 @@
 # app-pinia
+## This simple application is meant to show the beauty and simplicity of pinia and composition API
 
 ## Project setup
 ```
